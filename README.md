@@ -8,14 +8,12 @@ Step 3:
 in the VirtualBox, Create new virtual machine, name it then in the “ISO image” field select the ubuntu mate you have downloaded then click “next”
 Step 4:
 Set up your account password and username, then click “next”
+![ros3](https://github.com/user-attachments/assets/e4efba4b-5ba2-4a54-83ae-9d77f3e8636d)
 Step 5:
 Set up the amount of RAM & virtual CPU count
-Step 6:
-Optionally you can add virtual hard disk
 
 Then you’ll see the summary of the configuration you set for the new virtual machine, click “finish”
 
-Step 7:
+Step 6:
 To download ROS noetic, open your linux terminal window and follow the stepts on the https://wiki.ros.org/noetic/Installation/Ubuntu
 
-you can use chat GPT to solve the errors you might face
